@@ -24,7 +24,7 @@ Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/){:target="_
 [covidenespanol.com](http://www.covidenespanol.com/){:target="_blank"}, a site for providing
 information about the COVID-19 pandemic in Spanish, written without medical jargon.
 
-[joepolicarpio.com](https://joepolicarpio.com){:target="_blank"}
+[joepolicarpio.com](https://joepolicarpio.com/){:target="_blank"}
 
 [My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}
 
