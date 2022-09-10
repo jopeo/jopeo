@@ -26,7 +26,7 @@ information about the COVID-19 pandemic in Spanish, written without medical jarg
 
 - [joepolicarpio.com](https://joepolicarpio.com/)
 
-- [My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio)
+- [My LinkedIn page](https://www.linkedin.com/in/joseph-policarpio)
 
 <!--
 **jopeo/jopeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
