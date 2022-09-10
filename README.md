@@ -4,7 +4,7 @@ I am a fourth-year medical student at the **Carle Illinois College of Medicine**
 the world's first engineering medical school.
 
 My professional interests include cardiothoracic surgery and medical education.
-My research interests include applying technologies such as machine learning, 
+My research interests include applying technologies such as machine learning 
 to both patient care and medical education, with the goal of alleviating administrative
 burdens and addressing the learning styles of upcoming generations, to better educate leaders
 and provide excellent, patient-centered care.
