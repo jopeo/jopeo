@@ -18,15 +18,15 @@ Thanks for visiting my repository!
 
 ### Some projects:
 
-[Anki with Friends](https://ankiweb.net/shared/info/613520216){:target="_blank"} on the AnkiWeb. 
-Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/){:target="_blank"}.
-
-[covidenespanol.com](http://www.covidenespanol.com/){:target="_blank"}, a site for providing
+- [Anki with Friends](https://ankiweb.net/shared/info/613520216) on the AnkiWeb. 
+Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/).
+  
+- [covidenespanol.com](http://www.covidenespanol.com/), a site for providing
 information about the COVID-19 pandemic in Spanish, written without medical jargon.
 
-[joepolicarpio.com](https://joepolicarpio.com/){:target="_blank"}
+- [joepolicarpio.com](https://joepolicarpio.com/)
 
-[My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}
+- [My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio)
 
 <!--
 **jopeo/jopeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
