@@ -16,11 +16,17 @@ Tensorflow's Keras.
 
 Thanks for visiting my repository!
 
-### Contact
+### Some projects:
 
-[My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}
+[Anki with Friends](https://ankiweb.net/shared/info/613520216){:target="_blank"} on the AnkiWeb. 
+Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/){:target="_blank"}.
+
+[covidenespanol.com](http://www.covidenespanol.com/){:target="_blank"}, a site for providing
+information about the COVID-19 pandemic in Spanish, written without medical jargon.
 
 [joepolicarpio.com](https://joepolicarpio.com){:target="_blank"}
+
+[My LinkedIn page is available here](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}
 
 <!--
 **jopeo/jopeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
