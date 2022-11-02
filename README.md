@@ -21,9 +21,10 @@ Thanks for visiting my repository!
 - Coming soon - transplant outcome prediction with [UNOS](https://unos.org/data/) dataset
 
 - [Heart Disease Prediction using Machine Learning - Live Prototype](http://www.heartdiseasepredictor.com/)
+  
 - [Heart Disease Prediction using Machine Learning - Project Description](http://www.heartdiseaseprediction.com/)
+  
 - [Stroke Prediction using Machine Learning - Live Prototype](http://www.strokepredictor.com/)
-
 
 - [Anki with Friends](https://ankiweb.net/shared/info/613520216) on the AnkiWeb. 
 Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/).
