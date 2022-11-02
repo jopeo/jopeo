@@ -20,7 +20,7 @@ Thanks for visiting my repository!
 
 - Coming soon - transplant outcome prediction with [UNOS](https://unos.org/data/) dataset
  
-- [Heart Disease Prediction using Machine Learning](http://www.heartdiseaseprediction.com/)
+- [Heart Disease Prediction using Machine Learning](https://www.heartdiseaseprediction.com/)
   
 - [Stroke Prediction using Machine Learning - Live Prototype](http://www.strokepredictor.com/)
 
