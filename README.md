@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a fourth-year medical student at the **Carle Illinois College of Medicine**,
-the world's first engineering medical school.
+the nation's first engineering medical school.
 
 My professional interests include cardiothoracic surgery and medical education.
 My research interests include applying technologies such as machine learning 
@@ -22,7 +22,7 @@ Thanks for visiting my repository!
  
 - [Heart Disease Prediction using Machine Learning](https://www.heartdiseaseprediction.com/)
   
-- [Stroke Prediction using Machine Learning - Live Prototype](http://www.strokepredictor.com/)
+- [Stroke Prediction using Machine Learning - Live Prototype](https://www.strokepredictor.com/)
 
 - [Anki with Friends](https://ankiweb.net/shared/info/613520216) on the AnkiWeb. 
 Independent site: [ankiwithfriends.com](https://ankiwithfriends.com/).
