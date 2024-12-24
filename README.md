@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am currently a General Surgery resident physician at [Florida Atlantic University](https://www.fau.edu/medicine/gme/residency-fellowship/surgery/){:target="_blank"}.
-I completed medical school at [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"}, 
+I am currently a General Surgery resident physician at [Florida Atlantic University](https://www.fau.edu/medicine/gme/residency-fellowship/surgery/).
+I completed medical school at [Carle Illinois College of Medicine](https://medicine.illinois.edu/), 
 the nation's first engineering-based medical school, after working as a full-time field-service engineer for surgical devices for several years.
 
 My professional interests include cardiothoracic surgery and medical education.
